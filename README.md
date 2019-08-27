@@ -1,2 +1,2 @@
 # online-auction-system
-![Image](https://image.shutterstock.com/image-vector/word-auction-concept-written-colorful-260nw-1078950923.jpg)
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bmB7IiYD8xWPbSMulyZJlR7WlXPRqzjw586I83UyVo1BOhlT)
